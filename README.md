@@ -1,26 +1,18 @@
-<h1 align="center"> Olá, Eu sou Geovane👋</h1>
 
-<!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Geovane+Cordeiro;Moro+no+Brazil,+Pernambuco+-+PE;Sou+estudante+de+ADS;Trabalho+como+analista+de+REDES!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Geovane+Cordeiro;I'm+26+years+old;I'm+from+Brazil;I'm+a+Network+Analyst+Job;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
-<!-- markdownlint-enable MD033 -->
+<div align="center">
+  <a href="[https://github.com/GGCORDEIRO/GGCORDEIRO]">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GGCORDEIRO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGCORDEIRO&layout=compact&langs_count=7&theme=dark"/>
+  </div>
+  
+<div align="center">  
+  <a href = "mailto:ggcordeiro@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/geovane-dos-santos/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
 
-- 🔭 Atualmente estou desempregado.
-- ⚡ Faço faculdade de ADS na UNINABUCO<->Recife <i>Início: 02/2022</i> - <i>Fim Previsto: 02/2026.
-- 🌱 Estou aprendendo HTML, CSS, JS, PHP, PYTHON, NODE, REACT, MySQL e BI.
-- 📫 Como chegar até mim: <br>
-- <b>Instagram: </b><a href="https://www.instagram.com/geovane_dos_santos23/">@geovane_dos_santos24</a><br>
-- <b>Linkedin:</b> <a href="https://www.linkedin.com/in/geovane-dos-santos/">@geovane-dos-santos</a><br>
-
+  </div>
+ 
