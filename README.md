@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Geovane+Cordeiro;I'm+26+years+old;I'm+from+Brazil;I'm+a+Network+Analyst+Job;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Geovane+Cordeiro;Tenho+26+Anos;Moro+no+Brazil;Trabalho+com+Analise+de+Redes;Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="[https://github.com/GGCORDEIRO/GGCORDEIRO]">
